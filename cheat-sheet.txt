@@ -1,0 +1,16 @@
+VSC TERMINAL:
+    ls ,list the content of directory
+    cd ,change directory [.. for parent]
+    npx create-react-app <project_name> ,start a react project 
+    npm start ,run the react app
+
+
+REACT:
+    useState:
+        1. import React, {useState} from 'react';
+        2. const [var, setVar] = useState(()=>{return value})   --> var is the the current value
+                                                                --> setVar is the updating function
+                                                                --> value is the initial value 
+    rfc ,shortcut to write the function thingy
+THINGS TO LOOK UP:
+    *, *::before, *::after [css]
